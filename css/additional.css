@@ -212,4 +212,9 @@ body{
         margin-top:3em;
     }
 
+    .navbar-toggle{
+        margin-top:1em;
+        border-color: #f5f5f5 !important;
+    }
+
 }
