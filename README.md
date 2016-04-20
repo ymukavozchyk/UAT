@@ -11,12 +11,12 @@ High-fidelity prototype of redesigned version of the official website of the Uni
  - Contact page
 
 ----------
-**COMP 441 - Human Computer Interaction** 
-Loyola University Chicago
+**COMP 441 - Human Computer Interaction**  
+Loyola University Chicago  
 Spring 2016
 
 ----------
-**Auhtor**
+**Auhtor**  
 Yauheni Mukavozchyk
 
 ----------
