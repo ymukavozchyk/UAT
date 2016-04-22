@@ -2,6 +2,22 @@ module.exports = function (grunt) {
 
     grunt.initConfig({
         uncss: {
+            options: {
+                ignore: [
+                    // Bootstrap selectors added via JS
+                    /\w\.in/,
+                    ".fade",
+                    ".collapse",
+                    ".collapsing",
+                    /(#|\.)navbar(\-[a-zA-Z]+)?/,
+                    /(#|\.)dropdown(\-[a-zA-Z]+)?/,
+                    /(#|\.)(open)/,
+                    // injected via JS
+                    /disabled/,
+                    /\.no\-js/,
+                    /\.defer/
+                ]
+            },
             dist: {
                 files: {
                     'css/tidy.min.css': ['dev/index.html', 'dev/contact.html', 'dev/information.html', 'dev/request-information.html']
