@@ -4,10 +4,10 @@ High-fidelity prototype of redesigned version of the official website of the Uni
 
 **Prototype contains**
 
- - [Landing page](http://ymukavozchyk.github.io/comp441proto/)
- - [Information content page](http://ymukavozchyk.github.io/comp441proto/information.html)
- - [User input form page](http://ymukavozchyk.github.io/comp441proto/request-information.html)
- - [Contact page](http://ymukavozchyk.github.io/comp441proto/contact.html)
+ - [Landing page](http://ymukavozchyk.github.io/UAT/index.html)
+ - [Information content page](http://ymukavozchyk.github.io/UAT/information.html)
+ - [User input form page](http://ymukavozchyk.github.io/UAT/request-information.html)
+ - [Contact page](http://ymukavozchyk.github.io/UAT/contact.html)
 
 ----------
 **COMP 441 - Human Computer Interaction**  
