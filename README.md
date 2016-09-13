@@ -19,3 +19,6 @@ Spring 2016
 Yauheni Mukavozchyk
 
 ----------
+
+**License**  
+MIT
